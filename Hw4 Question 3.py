@@ -95,3 +95,4 @@ After surveying the whole population, the new number of people with cancer becom
 # As you can see from above, the more people we survey, the higher the number of cancer diagnosed. <br> <br>
 # This is due to the fact that surveying a small amount of people gives an inaccurate representation of the device's effects. <br> <br>
 # I have included a statistic for surveying the entire population so we can see the difference that surveying more people makes. <br> <br>
+# Despite the percentage difference being small after each survey, the difference in the actual number of people with cancer increases almost 100-fold each time.
