@@ -83,3 +83,5 @@ print(
 
 # %% [markdown]
 # This confirms my hypothesis as hospital C has even less days with >=60% boys born than hospital B by a factor of almost 5.
+
+# %%
