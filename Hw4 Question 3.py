@@ -46,9 +46,9 @@ big_survey = survey(100000, 1000)
 
 print(
     f"""
-After surveying 1,000 people, {small_survey[0]} of them have cancer. Or {small_survey[1]}% of the population.
-After surveying 10,000 people, {med_survey[0]} of them have cancer. Or {med_survey[1]}% of the population.
-After surveying 100,000 people, {big_survey[0]} of them have cancer. Or {big_survey[1]}% of the population.
+After surveying 1,000 people, {small_survey[0]} of them have cancer. Or {small_survey[1]}% of those surveyed.
+After surveying 10,000 people, {med_survey[0]} of them have cancer. Or {med_survey[1]}% of those surveyed.
+After surveying 100,000 people, {big_survey[0]} of them have cancer. Or {big_survey[1]}% of those surveyed.
       """
 )
 
