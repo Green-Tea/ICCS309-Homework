@@ -21,8 +21,7 @@ y = ufloat(8, 0.1)
 z = ufloat(3, 0.1)
 
 v = x * y * z
-d = 1.3
-m = v * d
+m = v * 1.3
 print("Mass of air:", m)
 
 # %% [markdown]
